@@ -38,6 +38,8 @@ Feel free to get in touch, whether for collaboration or a casual chat!
 - ✉️ **Email**: [ayushniraula82@gmail.com](mailto:ayushniraula82@gmail.com)
 - 🔗 **LinkedIn**: [Ayush Niraula](https://www.linkedin.com/in/ayush-niraula)
 - 📸 **Instagram**: [@ayushniraula82](https://www.instagram.com/ayushniraula82)
+- 🌐 **Website**: [me-ayush-niraula.netlify.app](https://me-ayush-niraula.netlify.app)
+
 
 ---
 
